@@ -1,6 +1,6 @@
 {
 
-    "Post":[
+    "Post":
       {
         "name": "Vehiculos",
         "color": "red",
@@ -151,6 +151,6 @@
           }
         ]
       }
-    ]
+    
    
 }
